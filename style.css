@@ -15,7 +15,7 @@
     width: 100%;
     max-width: 540px;
     background: #fff;
-    background-image: url(/images/pexels-content-pixie-1405717-2736499.jpg);
+    background-image: url(images/pexels-content-pixie-1405717-2736499.jpg);
     background-size: cover;
     background-position: center;
     margin: 100px auto 20px;
@@ -75,7 +75,7 @@ ul li::before{
     height: 28px;
     width: 28px;
     border-radius: 50%;
-    background-image: url(/images/pngwing.png);
+    background-image: url(images/pngwing.png);
     background-size: cover;
     background-position: center;
     top: 12px;
@@ -86,7 +86,7 @@ ul li.checked{
     text-decoration: line-through;
 }
 ul li.checked::before{
-    background-image: url(/images/pngwing.com\ \(4\).png);
+    background-image: url(images/pngwing.com\ \(4\).png);
 }
 ul li span{
     position: absolute;
